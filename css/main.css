@@ -281,6 +281,7 @@ nav li a:hover {
   cursor: pointer;
 }
 
+/* for tablet view */
 @media only screen and (min-width: 768px) {
   .mobile-menu,
   .mobile-menu-exit {
@@ -334,6 +335,7 @@ nav li a:hover {
   }
 }
 
+/* for laptop or pc view */
 @media only screen and (min-width: 1080px) {
   .container {
     width: 1080px;
